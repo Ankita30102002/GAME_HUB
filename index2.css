@@ -1,0 +1,29 @@
+body{
+    background-color: #2d414b;
+    text-align: center;
+    color: #F2C14E;;
+    font-family:'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+}
+#startgame{
+    padding: 10px 20px;
+    border-radius: 10px;
+    background-color: #F2C14E;;
+    color: #333;
+    border-color: #F2C14E;;
+    font-size: 18px;
+    transition: 200ms transform;
+    font-weight: 600;
+}
+.main{
+    padding: 40px;
+    height: 100vh;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    flex-direction: column;
+    background-color: #37505C;
+}
+h1 {
+    font-size: 54px;
+    text-transform: uppercase;
+}
